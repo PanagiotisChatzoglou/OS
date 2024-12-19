@@ -1,0 +1,15 @@
+/home/pchatzog/Lab05
+log
+-bash: cd: /path/to/directory: No such file or directory
+
+Command 'start' not found, did you mean:
+
+  command 'tart' from deb tart (3.10-1build1)
+  command 'startx' from deb xinit (1.4.1-0ubuntu2)
+  command 'rstart' from deb x11-session-utils (7.7+4)
+  command 'stat' from deb coreutils (8.30-3ubuntu2)
+
+Try: apt install <deb name>
+
+cp: cannot stat 'source.txt': No such file or directory
+cp: cannot stat 'destination.txt': No such file or directory
